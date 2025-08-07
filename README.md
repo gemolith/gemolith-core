@@ -1,6 +1,9 @@
 # Gemolith Core
 A quantum-resistant blockchain for the next generation of decentralized finance.
+
 For a user version of the Gemolith Core software, see our official website: https://www.gemolith.org/
+
+Check out the whitepaper to find all the details: https://www.gemolith.org/whitepaper
 
 **What is Gemolith?**
 
